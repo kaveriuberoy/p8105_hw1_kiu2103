@@ -1,1 +1,1 @@
-# p8105_hw1_kiu2103
+# p8105 Homework 1 by Kaveri Uberoy, kiu2103
